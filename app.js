@@ -2,7 +2,10 @@ console.log("oh yeah");
 
 function app() {
     if (loggedIn()) {
-        // redirect
+        // redirect home
+    }
+    else {
+        // redirect to register
     }
 }
 
