@@ -2,8 +2,8 @@
 
 ### Skušam **Git** 🇸🇰
 
-A toto je prvé dielo génia!
+* A toto je prvé dielo génia!
 
-Konečne si to pochopil.
+* Konečne si to pochopil.
 
-Je to tu. Príchod kráľa.
+* Je to tu. Príchod kráľa.
