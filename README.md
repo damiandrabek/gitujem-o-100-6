@@ -14,5 +14,7 @@ Lepšie materiály nenájdeš nikde.
 ---
 ## _Membership_
 ```
-zaplat alebo skap
+zaplat  
+alebo  
+skap
 ```
